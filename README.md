@@ -6,6 +6,7 @@
 - Asrock z790i Lightning Wifi
 
 ## Kexts
+
 - AirportItlwm.kext
 - AppleALC.kext
 - AppleIGC.kext
@@ -22,5 +23,11 @@
 - VirtualSMC.kext
 - WhateverGreen.kext
 
-## 怪癖
-请不要尝试更新到15系统，本配置适合在MacOS 14.7.7“养老”
+## Quirks
+
+Please do not attempt to upgrade to macOS 15. This configuration is suitable for "retirement" on macOS 14.7.7. Below are my test results on 14.7.7.
+
+* Wireless network: Pass
+* Sleep: Not tested
+* Ethernet card: Pass
+* Bluetooth: Pass
