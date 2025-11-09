@@ -7,11 +7,9 @@
 
 ## Kexts
 
-- AirportItlwm.kext
+- itlwm.kext
 - AppleALC.kext
-- AppleIGC.kext
 - BlueToolFixup.kext
-- CpuTopologyRebuild.kext
 - IntelBluetoothFirmware.kext
 - Lilu.kext
 - LucyRTL8125Ethernet.kext
