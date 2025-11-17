@@ -1,5 +1,15 @@
-# Asrock z790i Lightning Wifi_OpenCore_EFI
+<h1 align="center">
+  <br>
+  <img src="https://dortania.github.io/OpenCore-Install-Guide/dortania-logo-clear.png" alt="Hackintosh" width="200">
+  <br>
+  OpenCore EFI for Asrock z790i Lightning Wifi Hackintosh
+  <br>
+</h1>
 
+<p align="center">
+  <strong>A complete OpenCore EFI configuration for Asrock z790i Lightning Wifi systems</strong>
+</p>
+  
 - OpenCore 1.0.6
 - MacOS 14.7.7 23H723
 - CPU	8C+16c Intel Core i9-14900K, 5686 MHz (57 x 100)
